@@ -1,5 +1,5 @@
 from allpairspy import AllPairs
-
+# /
 n = int(input("Введите количество списков >>> "))
 parameters = []
 for i in range(n):
