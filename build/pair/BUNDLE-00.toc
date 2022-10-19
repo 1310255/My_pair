@@ -1,0 +1,3 @@
+([('pair',
+   '/Users/al_om_spb/PycharmProjects/My_pair/dist/pair',
+   'EXECUTABLE')],)
